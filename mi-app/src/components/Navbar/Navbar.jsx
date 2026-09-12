@@ -1,3 +1,4 @@
+import "./Navbar.css";
 function Navbar() {
     const SiteName = "ReactAcademy"
     return (

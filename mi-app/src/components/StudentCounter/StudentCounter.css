@@ -1,0 +1,28 @@
+.student-counter {
+    text-align: center;
+    padding: 60px 10%;
+}
+
+.student-counter h2 {
+    margin-bottom: 25px;
+}
+
+.counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.counter button {
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.DynamicNumber {
+    font-size: 28px;
+    font-weight: bold;
+    min-width: 40px;
+}

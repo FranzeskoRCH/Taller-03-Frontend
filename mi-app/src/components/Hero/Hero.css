@@ -1,0 +1,21 @@
+.hero {
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 48px;
+}
+
+.ReactWord {
+    color: #61dafb;
+}
+
+.hero p {
+    margin: 20px 0;
+}
+
+.hero button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}

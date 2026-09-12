@@ -1,9 +1,21 @@
+import "./CourseCard.css";
+
 function CourseCard(props) {
     return (
-        <div>
-            <h2>{props.title}</h2>
+        <div className="course-card">
+
+            <div className="course-emoji">
+                {props.emoji}
+            </div>
+
+            <h3>{props.title}</h3>
+
             <p>{props.description}</p>
-            <span>{props.level}</span>
+
+            <span className="course-level">
+                {props.level}
+            </span>
+
         </div>
     );
 }

@@ -1,0 +1,15 @@
+footer {
+    margin-top: 60px;
+    padding: 35px 10%;
+
+    background-color: #1e232d;
+
+    text-align: center;
+
+    color: #94a3b8;
+}
+
+footer span {
+    color: #f1f5f9;
+    font-weight: bold;
+}
